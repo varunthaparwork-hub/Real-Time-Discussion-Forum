@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Django
+*.sqlite3
+media/
+staticfiles/
+
+# Environment variables
+.env
+
+# Node
+node_modules/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Test databases
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.env
+docker/*.env
+
+# Migrations (optional, if needed ignore selectively)
+# */migrations/*
+# !*/migrations/__init__.py

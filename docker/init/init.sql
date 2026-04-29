@@ -1,0 +1,3 @@
+CREATE DATABASE auth_db;
+CREATE DATABASE forum_db;
+CREATE DATABASE notification_db;
